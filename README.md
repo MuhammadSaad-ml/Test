@@ -1,22 +1,22 @@
 <!-- ================= BADGES ================= -->
 
-<img src="https://img.shields.io/badge/Data_Science-4CAF50">
-<img src="https://img.shields.io/badge/Python-3776AB">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B">
-<img src="https://img.shields.io/badge/Web_App-673AB7">
+<!-- ================= BADGES ================= -->
 
-<img src="https://img.shields.io/badge/EDA-Automated-E91E63">
-<img src="https://img.shields.io/badge/Jupyter-Notebook-F57C00">
-<img src="https://img.shields.io/badge/File_Upload-Secure-009688">
-<img src="https://img.shields.io/badge/CSV_Excel_JSON-3F51B5">
+<!-- Core -->
+<img src="https://img.shields.io/badge/Data_Science-4CAF50"> <img src="https://img.shields.io/badge/Python-3776AB"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B"> <img src="https://img.shields.io/badge/Web_App-673AB7"> <img src="https://img.shields.io/badge/Interactive_UI-9C27B0">
 
-<img src="https://img.shields.io/badge/Pandas-Data_Analysis-795548">
-<img src="https://img.shields.io/badge/NumPy-Scientific-2196F3">
-<img src="https://img.shields.io/badge/Plotly-Visualizations-607D8B">
+<!-- EDA & Notebooks -->
+<img src="https://img.shields.io/badge/EDA-Automated-E91E63"> <img src="https://img.shields.io/badge/Jupyter-Notebook-F57C00"> <img src="https://img.shields.io/badge/Notebook_Execution-Enabled-FF9800"> <img src="https://img.shields.io/badge/Markdown-Supported-795548">
 
-<img src="https://img.shields.io/badge/Open_Source-Yes-8BC34A">
-<img src="https://img.shields.io/badge/End--to--End-Data_App-FFC107">
-<img src="https://img.shields.io/badge/Beginner_Friendly-Yes-03A9F4">
+<!-- File Handling -->
+<img src="https://img.shields.io/badge/File_Upload-Secure-009688"> <img src="https://img.shields.io/badge/CSV-Excel-JSON-3F51B5"> <img src="https://img.shields.io/badge/ZIP_Multi--File-Supported-3F51B5"> <img src="https://img.shields.io/badge/Large_Files-200MB-2196F3">
+
+<!-- Libraries -->
+<img src="https://img.shields.io/badge/Pandas-Data_Analysis-795548"> <img src="https://img.shields.io/badge/NumPy-Scientific-2196F3"> <img src="https://img.shields.io/badge/Plotly-Interactive_Charts-607D8B"> <img src="https://img.shields.io/badge/Stats-Insights-607D8B">
+
+<!-- App Quality -->
+<img src="https://img.shields.io/badge/Open_Source-Yes-8BC34A"> <img src="https://img.shields.io/badge/End--to--End-Data_App-FFC107"> <img src="https://img.shields.io/badge/Beginner_Friendly-Yes-03A9F4"> <img src="https://img.shields.io/badge/No_Code_Required-True-4CAF50">
+
 
 ---
 
